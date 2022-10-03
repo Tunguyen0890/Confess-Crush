@@ -8,7 +8,7 @@ const CONFIG = {
     btnYes: 'Phải tôi là chó=))',
     btnNo: 'Không nha :3',
     question: 'Tại sao bữa giờ m ko nói m là chó?',
-    btnReply: 'Gửi cho bạn <3',
+    btnReply: 'Gửi cho bạn ',
     reply: 'Thật ra mình là chó🤨',
     mess: 'Mình biết mà 🥰. ',
     messDesc: 'Tội.',
